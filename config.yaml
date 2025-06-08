@@ -1,0 +1,6 @@
+data_path: "data/raw/guardian_weather_uk.csv"
+model_path: "models/sentiment_model.pkl"
+log_path: "logs/robot.log"
+use_mock: true          # Need to change to false when with NAO
+nao_ip: ""   # Need to replace with NAO's IP
+nao_port: 9559
