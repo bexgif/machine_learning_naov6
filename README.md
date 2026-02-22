@@ -1,4 +1,4 @@
-# 🌦️ Emotional Weather Newsreader with NAO V6
+# Emotional Weather Newsreader with NAO V6 - 1st Class Grade Achieved
 This project is a machine learning-driven emotional weather newsreader that combines Natural Language Processing, sentiment analysis, and human-robot interaction. It enables the NAO V6 robot to read out UK weather headlines using expressive tone, gestures, and LED facial feedback.
 
 ## What It Does
@@ -36,4 +36,5 @@ This project is a machine learning-driven emotional weather newsreader that comb
 - Integrate transformer models (e.g., BERT) for deeper sentiment understanding
 - Connect to live news feeds for automatic, real-time delivery
 - Add speech output for blind users and camera-based feedback for reactive interaction
+
 
